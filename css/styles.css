@@ -1,0 +1,27 @@
+h1 {
+  margin-top: 0;
+  font-size: 50px;
+  font-family: cursive;
+  }
+body {
+  margin:0;
+  text-align: center;
+}
+.top-container {
+  background-color:grey;
+  position:relative;
+  padding:100px;
+}
+.bottom-cloud {
+  position:absolute;
+  left:300px;
+  bottom:400px;
+}
+.top-cloud {
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.middle-container {
+  background-color: powderblue;
+}
